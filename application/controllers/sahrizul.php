@@ -21,4 +21,11 @@ class Sahrizul extends CI_Controller {
 	{
 		echo "Nama  : Sahrizul";
 	}
+<<<<<<< HEAD
 }
+=======
+}
+
+/* End of file welcome.php */
+/* Location: ./application/controllers/welcome.php */
+>>>>>>> parent of a4e6e45... Update sahrizul.php
