@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Indra extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -20,7 +20,5 @@ class Welcome extends CI_Controller {
 	public function index()
 	{
 		echo "Nama  : Sahrizul";
-		echo "NIM   : 1637004";
-		echo "Kelas : TI. 6A";
 	}
 }
