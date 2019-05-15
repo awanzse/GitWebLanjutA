@@ -24,6 +24,3 @@ class Welcome extends CI_Controller {
 		echo "Kelas : TI. 6A";
 	}
 }
-
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
