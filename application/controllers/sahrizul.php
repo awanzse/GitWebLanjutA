@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Indra extends CI_Controller {
+class Sahrizul extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -17,15 +17,13 @@ class Indra extends CI_Controller {
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
+	 
+	 function _construct()
+	 {
+		 parent::_construct();
+	 }
 	public function index()
 	{
-		echo "Nama  : Sahrizul";
+		$this->load->view('profilsahrizul');
 	}
-<<<<<<< HEAD
 }
-=======
-}
-
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
->>>>>>> parent of a4e6e45... Update sahrizul.php
