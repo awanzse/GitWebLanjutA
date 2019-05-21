@@ -24,6 +24,6 @@ class RUDI extends CI_Controller {
 	 }
 	public function index()
 	{
-		$this->load->view('prfil');
+		$this->load->view('prfilrudi');
 	}
 }
