@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Sahrizul extends CI_Controller {
+class Roby2 extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -24,6 +24,6 @@ class Sahrizul extends CI_Controller {
 	 }
 	public function index()
 	{
-		$this->load->view('profilsahrizul');
+		$this->load->view('koko');
 	}
 }
