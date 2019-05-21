@@ -19,6 +19,6 @@ class Indra extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "WEB INDRA";
+		$this->load->view('gambar');
 	}
 }
