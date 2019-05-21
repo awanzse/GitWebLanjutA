@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class selametrohim extends CI_Controller {
+class Indra extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -19,7 +19,6 @@ class selametrohim extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('rohim');
-
+		$this->load->view('gambar');
 	}
 }
