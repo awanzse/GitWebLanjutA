@@ -8,12 +8,15 @@
 	font-size: 24px;
 }
 </style>
-</head>
 
 <body>
-<table width="502" height="491" border="2">
-  <tr>
-    <td colspan="2" bgcolor="#FF3333">  <div align="center"><img src="<?= base_url() ?>asset/zein.jpg" alt="s" width="350" height="500" align="texttop" /></div></td>
+<table width="1300" height="600" border="2">
+<tr>
+    <td colspan="2" bgcolor="#FF3333">  <div align="center"><img src="<?= base_url() ?>asset/header.jpg" alt="s" width="1200" height="200" align="texttop" /></div></td>
+  </tr>
+<tr>
+    <td colspan="2" background:#EDEDED;
+    }  <div align="center"><img src="<?= base_url() ?>asset/zein.jpg" alt="s" width="350" height="450" align="texttop" /></div></td>
   </tr>
   <tr>
     <td colspan="2" bgcolor="#993333"><div align="center"><span class="k"><marquee>BIODATA ahirruddin</marquee></span></div></td>
@@ -50,6 +53,7 @@
     <td bgcolor="#0066FF"><span class="k">Status</span></td>
     <td bgcolor="#0066FF"><span class="k">Mahasiswa</span></td>
   </tr>
+
 </table>
 </body>
 </html>
