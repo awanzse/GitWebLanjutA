@@ -12,7 +12,7 @@
 <table width="1774" height="204" border="1">
   <tr>
     <td width="399"><img src="<?= base_url() ?>asset/IMG_1879.jpg" width="399" height="500" alt="d" /></td>
-    <td width="1659" bgcolor="#00FFFF"><div align="center" class="S">BIODATA JERRY PRATAMA</div>
+    <p align="center"<div align="center" class="S">BIODATA JERRY PRATAMA</div> </p>
     <span class="S"></span></td>
   </tr>
 </table>
