@@ -11,30 +11,15 @@
   <header></header>    
     <nav><marquee>
     Pasir Pengaraian. 
-    
-      <!-- #BeginDate format:Am1a -->May 21, 2019 1:14 PM<!-- #EndDate -->
+      <!-- #BeginDate format:Am1a -->May 22, 2019 2:20 PM<!-- #EndDate -->
       </marquee>
     </nav>
-    <nav>   
-    <ul>
-    <li>           
-<li><a href="#">Home</a></li>   
-     <li><a href="#">Video</a>                   
-     <ul class="submenu">                           
-     <li><a href="#">Larva</a></li>                           
-     <li><a href="#">V-KERRS</a></li>                        
-     </ul>    
-     <li><a href="#">Tutorial</a></li>
-      <li><a href="#">Music</a></li>
-     <li><a href="#">Artikel</a></li>
-     <ul> 
-     <li><a href="#">Aplikasi</a></li>              
-</ul>   
+<li>   
 </li> 
      </nav>            
     <div id="content">
     <div id="single">    
-    <h2>RIWAYAT HIDUP    </h2>
+    <h2>RIWAYAT HIDUP</h2>
     <table width="600" height="314" border="0">
       <tr>
         <td width="228" rowspan="8"><img src="<?= base_url() ?>/assets/profil.jpg" width="217" height="202"></td>
