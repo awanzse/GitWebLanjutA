@@ -13,7 +13,7 @@
 </table>
 <table width="1294" border="1">
   <tr>
-    <marque> <th bgcolor="#0000FF" scope="col">WELCOME TO MY WEB</th> mar
+   <th bgcolor="#0000FF" scope="col">SELAMAT DATANG DI WEB SAYA</th> 
   </tr>
 </table>
 <p><strong>Profil</strong></p>
