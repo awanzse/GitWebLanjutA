@@ -22,13 +22,37 @@
 .d {
 	color: #33F;
 }
+.q {
+	font-family: Verdana, Geneva, sans-serif;
+}
+.fe {
+	font-family: "MS Serif", "New York", serif;
+}
+.w {
+	font-weight: bold;
+}
+.w {
+	font-weight: bold;
+}
+.re {
+	font-weight: bold;
+}
+.dv {
+	font-family: "Agency FB";
+}
+.s {
+	font-family: "Agency FB";
+}
+.d marquee {
+	color: #FFF;
+}
 </style>
 </head>
 
-<body>
+<body background="<?= base_url() ?>asset/bg.JPG"  >
 <table width="821" border="0" class="S">
   <tr>
-    <td width="815" height="86" bgcolor="#FF8080"><div align="center" class="WD"><strong>PROFIL ROBY SAPUTRA</strong></div></td>
+    <td width="815" height="86" bgcolor="#CC99CC"><div align="center" class="WD"><strong>PROFIL ROBY SAPUTRA</strong></div></td>
   </tr>
 </table>
 <table width="821" border="0">
@@ -37,49 +61,49 @@
   </tr>
 </table>
 <img src="<?= base_url() ?>asset/siluet.jpg" width="820" height="550" alt="ok" />
-<table width="820" height="399" border="0">
+<table width="820" height="399" border="5">
   <tr>
-    <td width="238" bgcolor="#FF0000">Nama Lengkap</td>
-    <td width="548" bgcolor="#0000FF">Roby Saputra</td>
+    <td width="238" bgcolor="#CC9999" class="w">Nama Lengkap</td>
+    <td width="548" bgcolor="#CC9999" class="re">Roby Saputra</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Nama Panggilan</td>
-    <td bgcolor="#0000FF">Roby/ Koko</td>
+    <td bgcolor="#CC9999" class="w">Nama Panggilan</td>
+    <td bgcolor="#CC9999" class="re">Roby/ Koko</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">TTL</td>
-    <td bgcolor="#0000FF">Batahan, 06-05-1998</td>
+    <td bgcolor="#CC9999" class="w">TTL</td>
+    <td bgcolor="#CC9999" class="re">Batahan, 06-05-1998</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Agama</td>
-    <td bgcolor="#0000FF">Islam</td>
+    <td bgcolor="#CC9999" class="w">Agama</td>
+    <td bgcolor="#CC9999" class="re">Islam</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Jenis Kelamin</td>
-    <td bgcolor="#0000FF">Laki - Laki</td>
+    <td bgcolor="#CC9999" class="w">Jenis Kelamin</td>
+    <td bgcolor="#CC9999" class="re">Laki - Laki</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Alamat</td>
-    <td bgcolor="#0000FF">Rambah Tengah Utara</td>
+    <td bgcolor="#CC9999" class="w">Alamat</td>
+    <td bgcolor="#CC9999" class="re">Rambah Tengah Utara</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Tinggi/ Berat Badan</td>
-    <td bgcolor="#0000FF">165 cm/ 50 Kg</td>
+    <td bgcolor="#CC9999" class="w">Tinggi/ Berat Badan</td>
+    <td bgcolor="#CC9999" class="re">165 cm/ 50 Kg</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Hoby</td>
-    <td bgcolor="#0000FF">Menyanyi,Traveling,Masak,Games</td>
+    <td bgcolor="#CC9999" class="w">Hoby</td>
+    <td bgcolor="#CC9999" class="re">Menyanyi,Traveling,Masak,Games</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Riwayat Pendidikan</td>
-    <td bgcolor="#0000FF"><p>1. SDN 002 Kuala Batahan</p>
+    <td bgcolor="#CC9999" class="w">Riwayat Pendidikan</td>
+    <td bgcolor="#CC9999" class="re"><p>1. SDN 002 Kuala Batahan</p>
     <p>2. SMPN 1 Sungai Beremas</p>
     <p>3. SMAN 1 Sungai Beremas</p>
     <p>4. UPP</p></td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000">Golongan Darah </td>
-    <td bgcolor="#0000FF"> O</td>
+    <td bgcolor="#CC9999" class="w">Golongan Darah </td>
+    <td bgcolor="#CC9999" class="re"> O</td>
   </tr>
 </table>
 <p>&nbsp;</p>
