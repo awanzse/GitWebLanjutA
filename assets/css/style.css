@@ -12,7 +12,7 @@
 	} 
 body{  
 	font-family:Calibri;  
-	background:url(assets/Bodi.jpg);
+	background: url(../Bodi.jpg);
 	background-attachment:fixed;  
 	background-position:center;  
 	}
@@ -38,7 +38,7 @@ header{
 	height:90px;  
 	width:960px;  
 	float:left;  
-	background:url(assets/Header1.jpg);
+	background: url(../Header1.jpg);
 	
 
 	} 
@@ -104,8 +104,7 @@ nav{
 	text-decoration:none; 
 	color:#000000;  
 	} 
-#wrapper #content #single #more a:hover{  
-	background:url(assets/12.jpg);  
+#wrapper #content #single #more a:hover{   
 	color:#093; 
 	border:#CC6600 1px solid;  
 	}  
@@ -134,9 +133,8 @@ nav{
 	}   
 footer{
 	float: left;
-	background: url(assets/footer.jpg);
 	width: 960px;
-	color: #FFF;
+	color: #000;
 	text-align: left;
 	} 
 footer #column h2{  
