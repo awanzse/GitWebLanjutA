@@ -36,38 +36,7 @@
         </tr>
       </table>
         </nav> <!--HTML5 --> 
-            <div id="content"><div id="single">
-			<div id="featured-image" style="background:url(images/2.jpg)">&nbsp;
-			  <div id="featured-image2" style="background:url(images/2.jpg)"><img src="images/2.jpg" width="150" height="100"></div>
-			</div>
-                <h2>&nbsp;</h2>
-                <h2>&nbsp;</h2>
-                <h2>Ronaldo Pamer Otot Jelang Real Madrid Vs Munchen</h2>
-                Real Madrid akan berhadapan dengan Bayern Munchen pada babak semifinal Liga Champions musim ini. Para pemain Los Blancos mulai mempersiapkan diri, termasuk Cristiano Ronaldo. 
-
-Ronaldo menjadi pemain kunci Los Blancos di Liga Champions musim ini. Gol demi gol yang dicetak ke gawang lawan telah membantu Real Madrid melaju hingga ke babak semifinal. 
-
-                <div id="more"><a href="tentang.html">Baca Selengkapnya</a></div> </div>
-				
-			<div id="single">	
-            <div id="featured-image" style="background:url(3.jpg)">&nbsp;</div>
-             <img src="images/3.jpg" width="158" height="150">
-		  <h2>5 Smartphone Mahal yang Sekarang Turun Harga </h2> 
-				 Zaman sekarang, harga smartphone terbaru selalu dua sampai empat kali lipat lebih mahal dari rata-rata gaji orang Indonesia.
-
-Menurut Badan Pusat Statistik (BPS) rata-rata gaji di Indonesia berada di angka Rp 4 juta per bulan pada 2017.
-
-Sekarang, smartphone mahal didominasi oleh Samsung dan Apple, Samsung S9 Plus mematok harga Rp 12 jutaan, dan harga iPhone X sekitar Rp 19 juta..‎
-                <div id="more"><a href="hp.html">Baca Selengkapnya</a></div> </div>
-            
-            <div id="single">
-            <div id="featured-image" style="background:url(images/celaka.jpg)">&nbsp;</div>
-                <h2>Minibus Kecelakaan di Depan Pasar Mampang</h2>
-				Jakarta - Sebuah mobil minibus Toyota Avanza mengalami kecelakaan di Jl Mampang Prapatan dini hari tadi. Kecelakaan ini mengakibatkan adanya korban, yang langsung dilarikan ke rumah sakit.
-                Identitas kendaraan tersebut adalah Toyota Avanza nomor polisi B-1760-SOK. Informasi ini dibenarkan oleh petugas Polsek Mampang. Dia mengatakan ada korban jiwa dalam kejadian ini. 
-               "Ada korban jiwa," kata petugas yang enggan menyebutkan namanya tersebut. [...]
-                <div id="more"><a href="worshop.html">Baca Selengkapnya</a></div> </div>  </div> 
-            <div id="sidebar">
+          
         <li class="widget"> 
             <h2>Profil :</h2> <!--HTML5 --> 
 			<head>
@@ -97,7 +66,7 @@ Sekarang, smartphone mahal didominasi oleh Samsung dan Apple, Samsung S9 Plus me
         
         <li class="widget">
             <h2>Audio Streaming</h2>
-            <audio id="audio" src="2.mp3" controls></audio>
+            <audio id="audio" src="1.mp3" controls></audio>
             </li>
             </div>
           
