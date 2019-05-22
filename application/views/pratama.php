@@ -5,42 +5,6 @@
 <title>Untitled Document</title>
 <style type="text/css">
 <<<<<<< HEAD
-.WD {
-	font-size: 24px;
-	font-family: "Comic Sans MS", "OCR A Std";
-}
-.S {
-	font-family: "Comic Sans MS", "OCR A Std";
-}
-.S {
-	font-size: 80px;
-	font-family: "Comic Sans MS", "OCR A Std";
-}
-.S tr td .WD strong {
-	font-size: 36px;
-	font-family: "Comic Sans MS", "OCR A Std";
-}
-.d {
-	color: #33F;
-=======
-.S {
-	font-size: 60px;
-	font-family: "Comic Sans MS", cursive;
-}
-.S {
-	color: #909;
-	font-family: "Comic Sans MS", cursive;
-}
-.d {
-	font-size: 24px;
-}
-.d {
-	font-size: 24px;
-}
-.f {
-	font-size: 24px;
->>>>>>> fadd846c3312aacf9c42d967e42bf5471dbf1d06
-}
 </style>
 </head>
 
