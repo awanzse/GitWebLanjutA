@@ -52,54 +52,21 @@
     <span class="S"></span></td>
   </tr>
 </table>
-<p><marquee>JERRY PRATAMA ROKAN </marquee></p>
+<p><marquee>SELAMAT DATANG DI WEB SAYA </marquee></p>
 <table width="1776" height="430" border="1">
   <tr>
-    <td width="137" bgcolor="#00FF00" class="d">Nama</td>
-    <td width="1603" bgcolor="#00FF00" class="f">JERRY PRATAMA</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">TTL</td>
-    <td bgcolor="#00FF00" class="f">ROKAN, 04-07-1998</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Alamat</td>
-    <td bgcolor="#00FF00" class="f">ROKAN KOTO RUANG</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Jenis Kelamin</td>
-    <td bgcolor="#00FF00" class="f">LAKI-LAKI</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Riwayat Pendidikan</td>
-    <td bgcolor="#00FF00" class="f"><p>SDN 001 ROKAN IV KOTO</p>
-    <p>SMPN 001 ROKAN IV KOTO</p>
-    <p>SMAN 001 ROKAN IV KOTO</p>
-    <p>Universitas Pasir Pengarauan</p></td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Fakultas </td>
-    <td bgcolor="#00FF00" class="f">Ilmu Komputer</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Program Studi</td>
-    <td bgcolor="#00FF00" class="f">Teknik Informatika</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Agama</td>
-    <td bgcolor="#00FF00" class="f">Islam</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Hobi</td>
-    <td bgcolor="#00FF00" class="f">BERDOA SUPAYA MASUK SURGA</td>
-  </tr>
-  <tr>
-    <td bgcolor="#00FF00" class="d">Cita-Cita</td>
-    <td bgcolor="#00FF00" class="f">MEMBAHAGIAKAN ORANG-ORANG YANG KURANG MAMPU</td>
+    <tr>
+    <td height="1190" bgcolor="#00FFFF"><p align="center">NAMA : JERRY PRATAMA</p>
+      <p align="center">PRODI : TEKNIK INFORMATIKA</p>
+    <p align="center">NIM : 1637012</p>
+    <p align="center">AGAMA : ISLAM</p>
+    <p align="center">TTL : ROKAN, 04 JULY 1998</p>
+    <p align="center">TINGGI : 158 CM</p>
+    <p align="center">BERAT : 44 KG</p>
+    <p align="center">STATUS : MAHASISWA</p>
+    <p align="center">HOBI : BERDOA</p>
+    <p align="center">&nbsp;</p>
   </tr>
 </table>
-<p>&nbsp;</p>
-<p><em></em></p>
->>>>>>> fadd846c3312aacf9c42d967e42bf5471dbf1d06
 </body>
 </html>
