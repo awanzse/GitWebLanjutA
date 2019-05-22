@@ -35,47 +35,47 @@
 <p><marquee>JERRY PRATAMA ROKAN </marquee></p>
 <table width="1776" height="430" border="1">
   <tr>
-    <td width="137" bgcolor="#FF0000" class="d">Nama</td>
-    <td width="1603" bgcolor="#FF0000" class="f">JERRY PRATAMA</td>
+    <td width="137" bgcolor="#00FF00" class="d">Nama</td>
+    <td width="1603" bgcolor="#00FF00" class="f">JERRY PRATAMA</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">TTL</td>
-    <td bgcolor="#FF0000" class="f">ROKAN, 04-07-1998</td>
+    <td bgcolor="#00FF00" class="d">TTL</td>
+    <td bgcolor="#00FF00" class="f">ROKAN, 04-07-1998</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Alamat</td>
-    <td bgcolor="#FF0000" class="f">ROKAN KOTO RUANG</td>
+    <td bgcolor="#00FF00" class="d">Alamat</td>
+    <td bgcolor="#00FF00" class="f">ROKAN KOTO RUANG</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Jenis Kelamin</td>
-    <td bgcolor="#FF0000" class="f">LAKI-LAKI</td>
+    <td bgcolor="#00FF00" class="d">Jenis Kelamin</td>
+    <td bgcolor="#00FF00" class="f">LAKI-LAKI</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Riwayat Pendidikan</td>
-    <td bgcolor="#FF0000" class="f"><p>SDN 001 ROKAN IV KOTO</p>
+    <td bgcolor="#00FF00" class="d">Riwayat Pendidikan</td>
+    <td bgcolor="#00FF00" class="f"><p>SDN 001 ROKAN IV KOTO</p>
     <p>SMPN 001 ROKAN IV KOTO</p>
     <p>SMAN 001 ROKAN IV KOTO</p>
     <p>Universitas Pasir Pengarauan</p></td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Fakultas </td>
-    <td bgcolor="#FF0000" class="f">Ilmu Komputer</td>
+    <td bgcolor="#00FF00" class="d">Fakultas </td>
+    <td bgcolor="#00FF00" class="f">Ilmu Komputer</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Program Studi</td>
-    <td bgcolor="#FF0000" class="f">Teknik Informatika</td>
+    <td bgcolor="#00FF00" class="d">Program Studi</td>
+    <td bgcolor="#00FF00" class="f">Teknik Informatika</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Agama</td>
-    <td bgcolor="#FF0000" class="f">Islam</td>
+    <td bgcolor="#00FF00" class="d">Agama</td>
+    <td bgcolor="#00FF00" class="f">Islam</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Hobi</td>
-    <td bgcolor="#FF0000" class="f">BERDOA SUPAYA MASUK SURGA</td>
+    <td bgcolor="#00FF00" class="d">Hobi</td>
+    <td bgcolor="#00FF00" class="f">BERDOA SUPAYA MASUK SURGA</td>
   </tr>
   <tr>
-    <td bgcolor="#FF0000" class="d">Cita-Cita</td>
-    <td bgcolor="#FF0000" class="f">MEMBAHAGIAKAN ORANG-ORANG YANG KURANG MAMPU</td>
+    <td bgcolor="#00FF00" class="d">Cita-Cita</td>
+    <td bgcolor="#00FF00" class="f">MEMBAHAGIAKAN ORANG-ORANG YANG KURANG MAMPU</td>
   </tr>
 </table>
 <p>&nbsp;</p>
