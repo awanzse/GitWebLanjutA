@@ -48,7 +48,7 @@
 <<<<<<< HEAD
 <table width="821" border="0" class="S">
   <tr>
-    <td width="815" height="86" bgcolor="#FF8080"><div align="center" class="WD"><strong>PROFIL JERRY PRATAMA</strong></div></td>
+    <td width="238" height="86" bgcolor="#FF8080"><div align="center" class="WD"><strong>PROFIL JERRY PRATAMA</strong></div></td>
   </tr>
 </table>
 <table width="821" border="0">
