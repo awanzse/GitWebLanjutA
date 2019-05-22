@@ -19,6 +19,6 @@ class selametrohim extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "Selamet Rohim";
+		$this->load->view('rohim');
 	}
 }
