@@ -9,8 +9,7 @@
  <div id="wrapper">  
  <div id="container">      
   <header></header>    
-    <nav><marquee>SELAMAT DATANG DI WEB JERRY PRATAMA</marquee>
-    </nav>
+    
 <li>   
 </li> 
      </nav>            
@@ -65,6 +64,8 @@
     </table>
     <p>&nbsp;</p> 
     </div>
+<nav><marquee>JANGAN LUPO KOMAI BALIK</marquee>
+    </nav>
 <footer>          
     <div id="column">  
     <h2>Motivasi Hidup</h2>      
