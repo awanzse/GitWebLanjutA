@@ -2,8 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Jerry Pratama</title>
-<link rel="stylesheet" href="<?= base_url() ?>assets/css/style.css" type="text/css"> 
+<title>Jerry Pratama</title> 
 </head>
 <body>
  <div id="wrapper">  
