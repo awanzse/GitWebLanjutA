@@ -8,7 +8,9 @@
 <body>
  <div id="wrapper">  
  <div id="container">      
-  <header></header>    
+  <header></header> 
+<nav><marquee>SELAMAT DATANG DI WEB GUIDE PUNCAK KABUR KENEGERIAN ROKAN</marquee>
+    </nav>   
     
 <li>   
 </li> 
