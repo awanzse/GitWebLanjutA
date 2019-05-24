@@ -12,7 +12,7 @@
 	} 
 body{  
 	font-family:Calibri;  
-	background:url(images/IM.gif); 
+	background:url(IM.gif); 
 	background-attachment:fixed;  
 	background-position:center;
 	font-style:italic;
@@ -37,7 +37,8 @@ body{
 	}
 header{  
 	height:160px;  
-	width:960px;  
+	width:960px;
+  	background:url(header.jpg);
 	float:left;  
 	font-family:Cuprum; 
     	font-style:italic;
