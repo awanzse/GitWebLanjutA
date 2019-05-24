@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Jerry Pratama</title>
-<link rel="stylesheet" href="<?= base_url() ?>assets/jerry/style2.css" type="text/css"> 
+<link rel="stylesheet" href="<?= base_url() ?>assets/style2.css" type="text/css"> 
 </head>
 <body>
  <div id="wrapper">  
@@ -18,7 +18,7 @@
     <div id="content">
     <div id="single">    
     <h2>BIODATA SAYA</h2>
-    <table width="600" height="314" border="0">
+    <table width="600" height="314" border="0" colspan="4" bgcolor="#3366CC" class="f" background:url(assets/IM.gif);>
       <tr>
         <td width="228" rowspan="8"><img src="<?= base_url() ?>/assets/IMG-20180304-WA0035.jpg" width="217" height="202"></td>
         <td width="148">Nama</td>

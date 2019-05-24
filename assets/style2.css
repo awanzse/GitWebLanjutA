@@ -14,7 +14,8 @@ body{
 	font-family:Calibri;  
 	background:url(images/IM.gif); 
 	background-attachment:fixed;  
-	background-position:center;  
+	background-position:center;
+	font-style:italic;
 	}
 #wrapper{ 
  	width:980px;  
@@ -38,7 +39,12 @@ header{
 	height:160px;  
 	width:960px;  
 	float:left;  
-	background:url(images//header.jpg);
+	font-family:Cuprum; 
+    	font-style:italic;
+    	font-size:42px; 
+    	font-weight:bold; 
+    	color:#e9faeb;
+	text-shadow:#000 2px 2px; /* CSS3 */
 
 	} 
 nav{  
