@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Jerry Pratama</title>
-<link rel="stylesheet" href="<?= base_url() ?>assets/css/style2.css" type="text/css"> 
+<link rel="stylesheet" href="<?= base_url() ?>assets/style2.css" type="text/css"> 
 </head>
 <body>
  <div id="wrapper">  
