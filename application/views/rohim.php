@@ -3,31 +3,34 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Untitled Document</title>
+<style type="text/css">
+<<<<<<< HEAD
+</style>
 </head>
 
 <body>
-<table width="1001" height="183" border="1">
+<table width="1774" height="204" border="1">
   <tr>
-    <th scope="col"><img src="rohim.JPG" width="1285" height="180" /></th>
+    <td width="399"><img src="<?= base_url() ?>asset/Au.jpg" width="399" height="500" alt="d" /></td>
+    <td width="1659"bgcolor="#CCCCCC"><div align="center" class="S">BIODATA SELAMET ROHIM</div>
+    <span class="S"></span></td>
   </tr>
 </table>
-<table width="1294" border="1">
+<p><marquee>SELAMAT DATANG DI WEB SAYA </marquee></p>
+<table width="1776" height="430" border="1">
   <tr>
-   <th bgcolor="#0000FF" scope="col">SELAMAT DATANG DI WEB SAYA</th> 
+    <tr>
+    <td height="1190" bgcolor="#CCCCCC"><p align="center">NAMA : SELAMET ROHIM</p>
+      <p align="center">PRODI : TEKNIK INFORMATIKA</p>
+    <p align="center">NIM : 1637011</p>
+    <p align="center">AGAMA : ISLAM</p>
+    <p align="center">TTL : MUARA KATOGAN, 29 SEPTEMBER 1997</p>
+    <p align="center">TINGGI : 158 CM</p>
+    <p align="center">BERAT : 44 KG</p>
+    <p align="center">STATUS : MAHASISWA</p>
+    <p align="center">HOBI : OLAHRAGA</p>
+    <p align="center">&nbsp;</p>
   </tr>
 </table>
-<p><strong>Profil</strong></p>
-<table width="200" height="169" border="1">
-  <tr>
-    <th bgcolor="#3333FF" scope="col"><img src="../../Tugas Web/Au.jpg" width="169" height="132" /></th>
-  </tr>
-</table>
-<p>Nama Lengkap : Selamet Rohim</p>
-<p>TTL	  : Muara Katogan, 29 September 1997</p>
-<p>Alamat : Muara Katogan</p>
-<p>Agama : 100 % Islam</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </body>
 </html>
